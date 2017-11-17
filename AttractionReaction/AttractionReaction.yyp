@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "2d240e3c-3a36-44f9-829d-251189622573",
+            "Value": {
+                "id": "ddf865c4-a0f6-48c9-adfc-3b4ca9bf2b49",
+                "resourcePath": "objects\\obj_magnet\\obj_magnet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4113379c-c326-40f4-b5d6-40ce4b55aaa0",
             "Value": {
                 "id": "54a9a1c3-e7e0-42ed-916a-6c991a6f2452",
@@ -116,6 +124,14 @@
                 "id": "971b6d78-741a-447d-ac49-97e1066323b6",
                 "resourcePath": "views\\63cee448-5608-4c46-ba7c-27f99c9b1a85.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6756e1c2-6127-4d34-8a4b-e0d976f15a5d",
+            "Value": {
+                "id": "b0ced9ce-26fe-429d-a728-ab0ef6db7b5c",
+                "resourcePath": "sprites\\spr_magnet\\spr_magnet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
