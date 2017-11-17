@@ -170,8 +170,16 @@
             "Key": "e01fcad1-93a4-4877-a236-0442137638fb",
             "Value": {
                 "id": "7f02c4ea-d887-492a-b172-053d8333b851",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\levelOne\\levelOne.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ea2453fe-16ce-4b9d-9984-24d88f05297a",
+            "Value": {
+                "id": "974968cb-4f3c-473b-a68c-13fa9738bf1c",
+                "resourcePath": "objects\\obj_ball\\obj_ball.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -188,6 +196,14 @@
                 "id": "04b7e2c5-abc3-4f1d-8865-300d4c09eb0f",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "faf2bd58-2173-4f7e-b0a2-e2cc4ec8fb7c",
+            "Value": {
+                "id": "09fbf318-9390-4bb8-a6f3-1f63fe2ee647",
+                "resourcePath": "sprites\\spr_ball\\spr_ball.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
