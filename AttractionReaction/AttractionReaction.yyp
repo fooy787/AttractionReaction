@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "494637c4-025b-4538-8497-36675fa17bda",
+            "Value": {
+                "id": "4500e698-4fb7-448d-b7c0-e956d535c128",
+                "resourcePath": "tilesets\\til_mainMenu\\til_mainMenu.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "4b0c9c5e-6737-4f49-9903-4946b90f89cf",
             "Value": {
                 "id": "4741dc84-d06c-4f8d-92b2-d955b8650942",
@@ -143,11 +151,27 @@
             }
         },
         {
+            "Key": "70916e26-62b3-459c-8314-1dd455650d35",
+            "Value": {
+                "id": "cd84272e-c3e6-4633-8a18-2ed618fff904",
+                "resourcePath": "sprites\\spr_mainMenu\\spr_mainMenu.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "c2936578-4f62-4957-8c8f-cc9df770f89b",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aa13fff8-173e-457a-afd5-ad97b6d2776f",
+            "Value": {
+                "id": "868385bd-0932-4d53-ac9f-021147db5a51",
+                "resourcePath": "rooms\\mainMenu\\mainMenu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
