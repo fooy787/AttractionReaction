@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "c5168150-1f4b-4c8f-ba49-3ff3b65053e3",
+            "Value": {
+                "id": "0e77d2c9-5b99-4236-966b-ef3f3c88ef5d",
+                "resourcePath": "tilesets\\til_detailedWalls\\til_detailedWalls.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "c5199ff8-1965-46a8-ad9d-0fc2e904cb7a",
             "Value": {
                 "id": "407f44ba-505c-4aca-ac9c-b02eb6be3ba1",
@@ -259,6 +267,14 @@
             "Value": {
                 "id": "a34963f6-5b48-48e6-b2f9-697cac6b10b9",
                 "resourcePath": "sprites\\spr_sand\\spr_sand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d4f132bc-6ddb-4b37-b647-72475645a6ec",
+            "Value": {
+                "id": "74ebd80d-9b6c-4170-9246-deda9e92b465",
+                "resourcePath": "sprites\\spr_detailedWalls\\spr_detailedWalls.yy",
                 "resourceType": "GMSprite"
             }
         },
