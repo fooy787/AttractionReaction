@@ -90,7 +90,7 @@
             "Key": "3a54ccf1-e27f-4654-a8c7-2267b7d6f665",
             "Value": {
                 "id": "40ed5fd6-36d3-4507-8eef-24975fee5e08",
-                "resourcePath": "sprites\\spr_walls\\spr_walls.yy",
+                "resourcePath": "sprites\\spr_wallsMagBall\\spr_wallsMagBall.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -210,7 +210,7 @@
             "Key": "cbd3e4a7-06ce-47d6-905e-4a9950244b7f",
             "Value": {
                 "id": "b296f74f-4419-4117-ab42-241a494be24f",
-                "resourcePath": "tilesets\\til_walls\\til_walls.yy",
+                "resourcePath": "tilesets\\til_wallsMagBall\\til_wallsMagBall.yy",
                 "resourceType": "GMTileSet"
             }
         },
