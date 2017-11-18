@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Start up code
 // You can write your code in this editor
 
 self.curVelocityVector = ds_list_create();
