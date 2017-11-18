@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "5714d614-e830-478f-af33-6bc0db261b70",
+            "Value": {
+                "id": "c1f1502d-8c1a-4782-90bb-2e793715cd6f",
+                "resourcePath": "rooms\\pauseMenu\\pauseMenu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "67c46665-9cb5-4b79-af12-d2d5cc801007",
             "Value": {
                 "id": "ecfe3cce-1d61-4036-95db-a7d384bd0e0d",
@@ -151,11 +159,11 @@
             }
         },
         {
-            "Key": "7db04942-f0c1-489d-9e2a-ea53ad2970dd",
+            "Key": "9e44b50c-7618-46ce-a054-f430b3d0759e",
             "Value": {
-                "id": "12b83108-a137-44a0-a734-bdb3ac1c12ae",
-                "resourcePath": "rooms\\levelOne\\levelOne.yy",
-                "resourceType": "GMRoom"
+                "id": "98c9647c-6789-48ab-a292-51b6b6db9631",
+                "resourcePath": "objects\\obj_pauseFont\\obj_pauseFont.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -210,7 +218,7 @@
             "Key": "c31a5e9b-11a5-48a2-880e-34adc20abe24",
             "Value": {
                 "id": "0862d4cf-0b1b-4d36-ba99-61f18029cd62",
-                "resourcePath": "rooms\\mazeLevel\\mazeLevel.yy",
+                "resourcePath": "rooms\\levelOne\\levelOne.yy",
                 "resourceType": "GMRoom"
             }
         },
