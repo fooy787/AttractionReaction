@@ -1,8 +1,8 @@
 {
-    "id": "728b2ee9-33c8-4c3b-bbe4-40101b7a078f",
+    "id": "e8f66adc-c4ce-445f-bee5-6574d60437a4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_walls",
+    "name": "obj_wallCollide",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "bfc30ad3-7f01-4995-8821-7ef8fbdca6b2",
     "visible": true
 }
