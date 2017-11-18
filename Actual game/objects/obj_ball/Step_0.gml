@@ -3,7 +3,7 @@
 
 if mouse_check_button(mb_left)
 {
-   if movable == 1
+   if (movable == 1 && obj_magnet.energy > 0)
    {
 		//physics_apply_impulse(x, y, (mouse_x - x) / 4, (mouse_y - y) / 4);
 		vecX = (mouse_x - x);
@@ -12,8 +12,21 @@ if mouse_check_button(mb_left)
 		curVelX += (vecX / vecLength);
 		curVelY += (vecY / vecLength);
 		obj_magnet.energy -=1;
+		timeBucket = 0;
    }
  }  
+ else
+ {
+	timeBucket+= delta_time;	 
+ }
+ 
+ if(timeBucket >= 2000)
+ {
+	if(obj_magnet.energy < 100)
+	{
+		obj_magnet.energy += 1; 
+	}
+ }
    
  x += curVelX;
  y += curVelY;
