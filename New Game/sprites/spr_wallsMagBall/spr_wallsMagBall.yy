@@ -2,7 +2,7 @@
     "id": "3a54ccf1-e27f-4654-a8c7-2267b7d6f665",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_walls",
+    "name": "spr_wallsMagBall",
     "For3D": false,
     "HTile": false,
     "VTile": false,
