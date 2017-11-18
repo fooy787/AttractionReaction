@@ -55,14 +55,6 @@
             }
         },
         {
-            "Key": "3199f9e0-2ef3-46a4-b974-8a79bd92c663",
-            "Value": {
-                "id": "510b5161-3b1b-4966-8418-6e366d94b7a8",
-                "resourcePath": "objects\\obj_mainMenu\\obj_mainMenu.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "31cd4dd5-e973-41e6-a260-788f53efa462",
             "Value": {
                 "id": "dced56be-bb9c-48e4-b0e2-3e61a28f7a52",
@@ -183,6 +175,22 @@
             }
         },
         {
+            "Key": "b7f4d8fb-29a0-4f5c-96fb-ee68f87a3a61",
+            "Value": {
+                "id": "9f9f1079-0a8b-4222-aa92-3634397c3885",
+                "resourcePath": "objects\\obj_menuFont\\obj_menuFont.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b8f14295-bccf-4637-8bc7-e2411fdec42a",
+            "Value": {
+                "id": "01316167-40f1-4c25-ae86-034a8b7cd032",
+                "resourcePath": "fonts\\fon_mainMenu\\fon_mainMenu.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "b93b6ff5-d4ce-493a-b301-a035a7e79de1",
             "Value": {
                 "id": "2e3fb9b2-cc6e-4993-8d30-81b1135d584f",
@@ -220,6 +228,14 @@
                 "id": "a57213ca-e080-4b3e-9a25-6a80a7b304ab",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d1d131a9-fa76-451d-afce-5e8cf83825ab",
+            "Value": {
+                "id": "a34963f6-5b48-48e6-b2f9-697cac6b10b9",
+                "resourcePath": "sprites\\spr_sand\\spr_sand.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
