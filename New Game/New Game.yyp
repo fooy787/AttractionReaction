@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "7db04942-f0c1-489d-9e2a-ea53ad2970dd",
+            "Value": {
+                "id": "12b83108-a137-44a0-a734-bdb3ac1c12ae",
+                "resourcePath": "rooms\\levelOne\\levelOne.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "a1159145-87f9-4ac8-aaf3-33a275c40260",
             "Value": {
                 "id": "a417b752-2685-4fc2-8f9b-f673ea87cb3f",
@@ -202,7 +210,7 @@
             "Key": "c31a5e9b-11a5-48a2-880e-34adc20abe24",
             "Value": {
                 "id": "0862d4cf-0b1b-4d36-ba99-61f18029cd62",
-                "resourcePath": "rooms\\levelOne\\levelOne.yy",
+                "resourcePath": "rooms\\mazeLevel\\mazeLevel.yy",
                 "resourceType": "GMRoom"
             }
         },
