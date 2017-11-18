@@ -3,3 +3,4 @@
 curVelX = 0;
 curVelY = 0;
 movable = 1;
+timeBucket = 0;
