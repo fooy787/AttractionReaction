@@ -55,14 +55,6 @@
             }
         },
         {
-            "Key": "0d00ff6d-1350-4df1-868a-421858fae4d1",
-            "Value": {
-                "id": "f927295a-e99d-4bf1-a9aa-c13a85caca82",
-                "resourcePath": "sounds\\sou_backgroundMainMenu\\sou_backgroundMainMenu.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "26707ca3-dced-40c0-a5ac-1fc3f0ee8822",
             "Value": {
                 "id": "43c8849d-8d06-47f4-872a-e2c1539151f1",
@@ -180,14 +172,6 @@
                 "id": "0ae915f9-9262-4105-ba82-8c4e384fb21f",
                 "resourcePath": "rooms\\levelOne\\levelOne.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "8b3b03ce-d593-4419-b79d-7d61088a1d0e",
-            "Value": {
-                "id": "a438e866-1603-40ca-bf08-9360f7eefc47",
-                "resourcePath": "objects\\obj_menuSound\\obj_menuSound.yy",
-                "resourceType": "GMObject"
             }
         },
         {
