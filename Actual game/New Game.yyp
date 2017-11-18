@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "564f7eae-e203-4d7e-9ed5-7042529245e7",
+            "Value": {
+                "id": "fddd8b6f-5872-42c7-8945-6c46d07e8d01",
+                "resourcePath": "sprites\\spr_detailedWallsKeylockMag\\spr_detailedWallsKeylockMag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "67c46665-9cb5-4b79-af12-d2d5cc801007",
             "Value": {
                 "id": "ecfe3cce-1d61-4036-95db-a7d384bd0e0d",
@@ -267,14 +275,6 @@
             "Value": {
                 "id": "a34963f6-5b48-48e6-b2f9-697cac6b10b9",
                 "resourcePath": "sprites\\spr_sand\\spr_sand.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d4f132bc-6ddb-4b37-b647-72475645a6ec",
-            "Value": {
-                "id": "74ebd80d-9b6c-4170-9246-deda9e92b465",
-                "resourcePath": "sprites\\spr_detailedWalls\\spr_detailedWalls.yy",
                 "resourceType": "GMSprite"
             }
         },
