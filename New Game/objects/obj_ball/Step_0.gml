@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
-self.x += self.curVelocityVector[0];
-self.y += self.curVelocityVector[1];
+if mouse_check_button_pressed(mb_left)
+   {
+      physics_apply_impulse(x, y, mouse_x, mouse_y);
+   }
