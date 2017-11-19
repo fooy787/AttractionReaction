@@ -10,8 +10,8 @@ if count <= 0 and mouse_check_button(mb_left)
 		vecX = (mouse_x - x);
 		vecY = (mouse_y - y);
 		vecLength = sqrt((vecX * vecX) + (vecY * vecY));
-		curVelX += (vecX / vecLength);
-		curVelY += (vecY / vecLength);
+		curVelX += (vecX / vecLength) / 2;
+		curVelY += (vecY / vecLength) / 2;
 		obj_magnet.energy -=1;
 		timeBucket = 0;
    }
