@@ -4,3 +4,4 @@ curVelX = 0;
 curVelY = 0;
 movable = 1;
 timeBucket = 0;
+alarm[0] = room_speed * 5;
