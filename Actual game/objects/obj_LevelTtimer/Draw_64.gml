@@ -4,14 +4,13 @@ count = floor(alarm[0]/room_speed)
 
 if count >= 1 and count <= 3
 {
-	draw_text(room_width / 2 - 70, room_height / 2, string(count));
-	//draw_text(room_width / 2 - 150, room_height / 2 - 150, "Level One")
+	draw_text_transformed(room_width / 2.2, room_height / 2, string(count), 0.5, 0.5, 0);
 }
 if count >= 1 and count <= 4
 {
- draw_text(room_width / 2 - 200, room_height / 2 - 150, room_get_name(view_current + 1))
+ draw_sprite(spr_lvlOne, -1, room_width / 2.5, room_height / 3)
 }
 if count <= 0 and count > -1
 {
-	draw_text(room_width / 2 - 100, room_height / 2 - 100, "Go!")
+	draw_text_transformed(room_width / 2.3, room_height / 2, "Go!", 0.5, 0.5, 0)
 }
