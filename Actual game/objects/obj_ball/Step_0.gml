@@ -1,7 +1,8 @@
 /// @description update code
 // You can write your code in this editor
+count = floor(alarm[0]/room_speed)
 
-if mouse_check_button(mb_left)
+if count <= 0 and mouse_check_button(mb_left)
 {
    if (movable == 1 && obj_magnet.energy > 0)
    {
