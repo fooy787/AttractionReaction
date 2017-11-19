@@ -23,7 +23,7 @@ if count <= 0 and mouse_check_button(mb_left)
  
  if(timeBucket >= 2000)
  {
-	if(obj_magnet.energy < 100)
+	if(obj_magnet.energy < 75)
 	{
 		obj_magnet.energy += 1; 
 	}

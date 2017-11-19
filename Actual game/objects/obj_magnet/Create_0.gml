@@ -3,4 +3,4 @@
 
 x = mouse_x;
 y = mouse_y;
-energy = 100;
+energy = 75;
