@@ -3,3 +3,8 @@
 draw_set_font(fon_mainMenu);
 draw_set_color(c_blue)
 draw_text_transformed(200, 0, "Energy: " + string(obj_magnet.energy), 0.5, 0.5, 0);
+if curVelX = 0 and curVelY = 0 and movable = 0
+{
+draw_text(room_width / 3.6, room_height / 3.8, "Game Over")
+draw_text_transformed(room_width / 3.3, room_height / 2, "Press R to restart", 0.5, 0.5, 0)
+}
