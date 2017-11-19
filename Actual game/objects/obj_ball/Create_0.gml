@@ -6,3 +6,4 @@ movable = 1;
 timeBucket = 0;
 alarm[0] = room_speed * 5;
 keyCount = 4
+vecLength = 0

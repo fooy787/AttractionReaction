@@ -31,3 +31,7 @@ if count <= 0 and mouse_check_button(mb_left)
    
  x += curVelX;
  y += curVelY;
+ 
+ image_angle = point_direction(x, y, obj_magnet.x, obj_magnet.y);
+ 
+ image_speed = max(vecLength / 100, 0);
